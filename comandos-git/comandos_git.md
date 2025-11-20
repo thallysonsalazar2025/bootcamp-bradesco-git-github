@@ -168,6 +168,7 @@ a dia do desenvolvimento.
     ```
     git checkout nome-da-branch
     ```
+    
 
 ### **git switch**
 
